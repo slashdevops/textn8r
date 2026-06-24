@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/p2p-b2b/textn8r"
+	"github.com/slashdevops/textn8r"
 )
 
 // Example demonstrates basic usage of individual normalizers
