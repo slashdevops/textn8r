@@ -4,11 +4,12 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/p2p-b2b/textn8r"
+	"github.com/slashdevops/textn8r"
 )
 
 func main() {
-	fmt.Println("=== textn8r Examples ===\n")
+	fmt.Println("=== textn8r Examples ===")
+	fmt.Println()
 
 	// Basic normalizers
 	fmt.Println("1. Basic Case Normalizers:")
