@@ -1,6 +1,5 @@
 # textn8r
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/slashdevops/textn8r)](https://goreportcard.com/report/github.com/slashdevops/textn8r)
 [![GoDoc](https://godoc.org/github.com/slashdevops/textn8r?status.svg)](https://godoc.org/github.com/slashdevops/textn8r)
 
 A flexible and extensible Go library for text normalization. `textn8r` provides a comprehensive set of string normalizers that can be used individually or chained together to clean, transform, and standardize text data.
